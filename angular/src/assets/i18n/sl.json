@@ -1,0 +1,58 @@
+{
+  "language": {
+    "croatian": "Hrvaški",
+    "english": "Angleščina",
+    "slovenian": "Slovenščina"
+  },
+  "app": {
+    "info": "Prijavljen kot",
+    "logout": "Odjava"
+  },
+  "login": {
+    "title": "Vpiši se",
+    "username": "Uporabniško ime",
+    "password": "Geslo",
+    "usernamePlaceholder": "Vnesite uporabniško ime",
+    "passwordPlaceholder": "Vnesite geslo",
+    "loginButton": "Vpiši se",
+    "loginError": "Prijava ni uspela! Preverite svoje poverilnice in poskusite znova."
+  },
+  "home": {
+    "hardwares": "Strojna oprema"
+  },
+  "hardwares": {
+    "title": "Strojna oprema",
+    "newHardware": "Vstavite novo strojno opremo"
+  },
+  "newHardware": {
+    "title": "Vstavljanje strojne opreme\n",
+    "titleInfo": "Vstavite novo strojno opremo",
+    "code": "Koda",
+    "name": "Ime",
+    "type": "Vrsta",
+    "storage": "Skladiščenje",
+    "other": "Drugo",
+    "stock": "Zaloga",
+    "price": "Cena",
+    "enterHardware": "Vstavite strojno opremo",
+    "back": "Nazaj"
+  },
+  "hardwareDetails": {
+    "title": "Podrobnosti o",
+    "price": "Cena",
+    "installmentInfo": "Ta strojna oprema je na voljo v 6 obrokih.",
+    "reviews": "Ocene za to strojno opremo",
+    "noReviews": "Za to strojno opremo ni ocen.",
+    "back": "Nazaj"
+  },
+  "forbiddenPage": {
+    "code": "403",
+    "message": "Dostop prepovedan!",
+    "back": "Nazaj na domačo stran"
+  },
+  "pageNotFound": {
+    "code": "404",
+    "message": "Stran ni najdena!",
+    "back": "Nazaj na domačo stran"
+  }
+}

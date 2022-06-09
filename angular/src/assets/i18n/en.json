@@ -1,0 +1,58 @@
+{
+  "language": {
+    "croatian": "Croatian",
+    "english": "English",
+    "slovenian": "Slovenian"
+  },
+  "app": {
+    "info": "Logged in as",
+    "logout": "Logout"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "usernamePlaceholder": "Enter username",
+    "passwordPlaceholder": "Enter password",
+    "loginButton": "Login",
+    "loginError": "Login failed! Check your credentials and try again."
+  },
+  "home": {
+    "hardwares": "Hardwares"
+  },
+  "hardwares": {
+    "title": "Hardware",
+    "newHardware": "Insert new hardware"
+  },
+  "newHardware": {
+    "title": "Inserting Hardware",
+    "titleInfo": "Insert new hardware",
+    "code": "Code",
+    "name": "Name",
+    "type": "Type",
+    "storage": "Storage",
+    "other": "Other",
+    "stock": "Stock",
+    "price": "Price",
+    "enterHardware": "Insert hardware",
+    "back": "Back"
+  },
+  "hardwareDetails": {
+    "title": "Details about",
+    "price": "Price",
+    "installmentInfo": "This hardware is available in 6 installments.",
+    "reviews": "Reviews for this hardware",
+    "noReviews": "There are no reviews for this hardware.",
+    "back": "Back"
+  },
+  "forbiddenPage": {
+    "code": "403",
+    "message": "Access forbidden!",
+    "back": "Back to homepage"
+  },
+  "pageNotFound": {
+    "code": "404",
+    "message": "Page not found!",
+    "back": "Back to homepage"
+  }
+}
